@@ -1,5 +1,5 @@
 export default new Object({
-    apiKey: 'AIzaSyDXyr_3ENBQ2GBFEteZqU5TFYGob7RQ3AE',
+    apiKey: 'nao',
     authDomain: 'analytics-report-dbd30.firebaseapp.com',
     databaseURL: 'https://analytics-report-dbd30.firebaseio.com',
     projectId: 'analytics-report-dbd30',
